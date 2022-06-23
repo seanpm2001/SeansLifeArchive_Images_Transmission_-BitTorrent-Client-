@@ -1,0 +1,9 @@
+This project was originally named:
+
+SeansLifeArchive_Images_GNOME_Transmission
+
+Due to the fact that the GNOME software group does not develop this, I renamed it to this accordingly:
+
+SeansLifeArchive_Images_Transmission_-BitTorrent-Client- 
+ 
+A few files were affected by the rename, mostly discussion archive related files. Upon further research, I found that the software was not part of the GNOME desktop. I hesitated to rename the project, but had to do the right thing.
